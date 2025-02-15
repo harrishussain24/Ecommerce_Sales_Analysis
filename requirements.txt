@@ -1,0 +1,7 @@
+numpy
+pandas
+matplitlib
+seaborn
+
+# for installing the requirements 
+# pip install -r requirements.txt

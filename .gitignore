@@ -1,0 +1,45 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Ignore IDE and editor settings
+.idea/
+.vscode/
+*.swp
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore temporary or backup files
+*.bak
+*.tmp
+*.swp
+*.swo
+*~
+
+# Ignore saved figures or images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+
+# Ignore data files (if applicable)
+*.csv
+*.xlsx
+
+# Ignore other unnecessary files (like results files, temporary outputs, etc.)
