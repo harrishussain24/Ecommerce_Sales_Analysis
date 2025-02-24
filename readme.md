@@ -13,7 +13,7 @@ The dataset used in this project is summer-products-with-rating-and- performance
     - Crawl Month
     - …
     
-Dataset Source: https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
+Dataset Source: https://www.kaggle.com/datasets/jmmvutu/summer-products-and-sales-in-ecommerce-wish
 
 Dependencies
 Ensure you have the following Python libraries installed: pip install numpy pandas matplotlib seaborn
