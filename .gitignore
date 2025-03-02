@@ -31,13 +31,6 @@ env/
 *.swo
 *~
 
-# Ignore saved figures or images
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.pdf
-
 # Ignore data files (if applicable)
 *.csv
 *.xlsx
