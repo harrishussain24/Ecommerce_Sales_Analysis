@@ -31,7 +31,6 @@ env/
 *.swo
 *~
 
-
 # Ignore data files (if applicable)
 *.csv
 *.xlsx
